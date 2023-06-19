@@ -47,13 +47,9 @@ struct AddBookView: View {
                 Section {
                     // Text editor for writing a review of the book
                     TextEditor(text: $review)
+                    RatingView(rating: $rating)
                     
-                    // Picker for selecting the rating of the book
-                    Picker("Rating", selection: $rating) {
-                        ForEach(0..<6) {
-                            Text(String($0))
-                        }
-                    }
+
                 } header: {
                     // Header text for the review section
                     Text("Write a review")
