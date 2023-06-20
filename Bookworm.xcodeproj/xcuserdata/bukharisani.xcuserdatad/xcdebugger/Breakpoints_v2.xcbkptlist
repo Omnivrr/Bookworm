@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8D092C37-1E43-4E57-8D99-16275CF6FE5C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDE7A648-CB8C-4744-B5EF-4950CF439B4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bookworm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "CDE7A648-CB8C-4744-B5EF-4950CF439B4D - 994e06ae432c93f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bookworm.ContentView.init() -&gt; Bookworm.ContentView"
+                  moduleName = "Bookworm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bukharisani/Desktop/Bookworm/Bookworm/Bookworm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "CDE7A648-CB8C-4744-B5EF-4950CF439B4D - 5d5029981a3112be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bookworm.ContentView.init(moc: SwiftUI.Environment&lt;__C.NSManagedObjectContext&gt;, books: SwiftUI.FetchRequest&lt;Bookworm.Book&gt;) -&gt; Bookworm.ContentView"
+                  moduleName = "Bookworm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bukharisani/Desktop/Bookworm/Bookworm/Bookworm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A85BC0C8-96DC-4C43-B093-90AF1F60B36B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bookworm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "A85BC0C8-96DC-4C43-B093-90AF1F60B36B - 994e06ae432c93f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bookworm.ContentView.init() -&gt; Bookworm.ContentView"
+                  moduleName = "Bookworm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bukharisani/Desktop/Bookworm/Bookworm/Bookworm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "A85BC0C8-96DC-4C43-B093-90AF1F60B36B - 5d5029981a3112be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bookworm.ContentView.init(moc: SwiftUI.Environment&lt;__C.NSManagedObjectContext&gt;, books: SwiftUI.FetchRequest&lt;Bookworm.Book&gt;) -&gt; Bookworm.ContentView"
+                  moduleName = "Bookworm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bukharisani/Desktop/Bookworm/Bookworm/Bookworm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FDD3449-7191-4FBB-88BB-584EAA935BB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bookworm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5FDD3449-7191-4FBB-88BB-584EAA935BB1 - f7fd21b4edaa5a84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bookworm.ContentView.moc.getter : __C.NSManagedObjectContext"
+                  moduleName = "Bookworm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bukharisani/Desktop/Bookworm/Bookworm/Bookworm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "5FDD3449-7191-4FBB-88BB-584EAA935BB1 - 994e06ae432c93f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bookworm.ContentView.init() -&gt; Bookworm.ContentView"
+                  moduleName = "Bookworm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bukharisani/Desktop/Bookworm/Bookworm/Bookworm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

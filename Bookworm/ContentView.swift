@@ -15,6 +15,7 @@ struct ContentView: View {
             List {
                 ForEach(books) { book in
                     NavigationLink {
+                        DetailView(book: book)
                         
                     } label: {
                         HStack {
