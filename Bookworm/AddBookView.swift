@@ -17,12 +17,12 @@ struct AddBookView: View {
     // State properties to store user input
     @State private var title = ""
     @State private var author = ""
-    @State private var rating = 3
+    @State private var rating = 4
     @State private var genre = ""
     @State private var review = ""
     
     // Available genres for the book
-    let genres = ["Fantasy", "Horror", "Kids", "Mystery", "Poetry", "Romance", "Thriller"]
+    let genres = ["Fantasy", "Horror", "Kids", "Mystery", "Poetry", "Romance", "Thriller", "History", "Biography"]
     
     var body: some View {
         NavigationView {
